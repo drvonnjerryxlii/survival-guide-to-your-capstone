@@ -28,7 +28,7 @@
   1. Do we need more solo projects before capstones?
   1. Do a personal-check-in after solo projects
 1. Estimating is really, really hard!
-1. __How to take care of yourself when overwhelmed?_
+1. __How to take care of yourself when overwhelmed?__
 1. Make very few concrete plans during capstone; expect to be _tired_ when you're not _working_.
 1. Rely on your classmates. Work/eat/dance together.
 1. Guest lectures were a struggle to pay attention/absorb; added to stress (something else to learn).
